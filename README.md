@@ -2,6 +2,7 @@
 
 Hey there! I'm Matthew Garry, an enthusiastic Junior Full Stack Web Developer passionate about building meaningful digital solutions. My focus areas include mental healthcare, accessible educational information, and fostering real connections using modern web technologies.
 
+![Rutger's Full Stack Bootcamp Certificate](https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/74664196)
 ---
 
 ## About Me
