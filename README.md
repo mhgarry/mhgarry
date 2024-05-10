@@ -19,7 +19,7 @@ Hey there! I'm Matthew Garry, an enthusiastic Junior Full Stack Web Developer pa
 ## Skills
 - **Languages & Frameworks**: JavaScript, TypeScript, Node.js, React, Express
 - **Styling**: CSS, Tailwind CSS
-- **Other Technologies**: REST APIs, Next.js
+- **Other Technologies**: REST APIs, Next.js, git, and Github
 
 ---
 
